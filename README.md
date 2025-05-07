@@ -52,5 +52,5 @@ Este projeto tem como objetivo validar e refutar hipóteses sobre o sucesso de m
 ## Contato
 
 Gabriela Albuquerque  
-[LinkedIn](https://www.linkedin.com/in/gabrielac-dealbuquerque/) | [Portfólio](https://github.com/gabrielacalbuquerque)
+[LinkedIn](https://www.linkedin.com/in/gabriela-cdeallbuquerque/) | [Portfólio](https://github.com/gabrielacalbuquerque)
 
