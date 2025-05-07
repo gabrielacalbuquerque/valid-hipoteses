@@ -29,7 +29,7 @@ Este projeto tem como objetivo validar e refutar hipóteses sobre o sucesso de m
 
 ## Visualização do Dashboard
 
-![Dashboard Spotify](Dashboard__Spotify_ (2)_page-0001.jpg)
+![Dashboard Spotify](painel-spotify)
 
 ---
 
